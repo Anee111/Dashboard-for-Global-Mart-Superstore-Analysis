@@ -12,6 +12,7 @@ Steps followed to create Dashboard:
 
 
    # 1. LOAD
-    Global mart data is loaded to powerbi. The data is of csv format with below fields.
-![image](https://github.com/user-attachments/assets/5ac545bf-405f-4b07-b503-cbb84d62404d)
+    Global mart data is loaded to powerbi. The data is of csv format with below fields. There are three tables orders, people and returns.
+![image](https://github.com/user-attachments/assets/289644e8-186c-40f8-9fcb-778eb28c6b7b)
+
 
